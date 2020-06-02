@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -14,6 +13,3 @@ In this challenge, you will be building a choose your own adventure game like Ba
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-=======
-# Destaini-App
->>>>>>> 56ed5a8fbb0894e0f51e2f50b149279bea4d9bfc
